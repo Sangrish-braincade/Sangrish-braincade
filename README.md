@@ -3,7 +3,8 @@
 I build AI systems that people actually use at work: LLM agents, document extraction and data pipelines, shipped to production for manufacturing clients.
 MSc Business Analytics & AI at Warwick Business School · Coventry, UK
 
-[sangrish.com](https://www.sangrish.com) · [LinkedIn](https://linkedin.com/in/sangrish)
+[sangrish.com](https://www.sangrish.com)  WIP so dont judge xD
+[LinkedIn](https://linkedin.com/in/sangrish)
 
 ---
 
